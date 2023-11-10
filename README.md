@@ -23,7 +23,7 @@ This is a Python application for monitoring system resources and displaying a Ga
 1. Clone this repository to your local machine:
 
 
-   #### `git clone https://github.com/your-username/system-monitor-gantt-chart.git`
+   #### `git clone https://github.com//Shalin06/OS_Project.git`
 
 2. Install the required dependencies using pip:
 
@@ -49,12 +49,5 @@ This is a Python application for monitoring system resources and displaying a Ga
     Visual representation of running processes as bars over time.
     Right-click on a process to kill it or view its details.
     Real-time updates to reflect changes in running processes.
-
-### Contributors
-
-- Shalin Jain
-- Shashwat Roy
-- Pranav Pant
-- Sameer Sharma
 
 Enjoy monitoring your system and visualizing process data with this System Monitor and Gantt Chart tool!

@@ -32,7 +32,7 @@ This is a Python application for monitoring system resources and displaying a Ga
 
 3. Run the application:
 
-   #### `python system_monitor.py`
+   #### `python main.py`
 
 
 ### Features
